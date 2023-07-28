@@ -1,0 +1,2 @@
+faster-whisper==0.7.1
+websockets==11.0.2
